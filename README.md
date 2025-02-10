@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @computersart
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=computersart&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=computersart&show_icons=true&theme=radical&hide_rank=true)
 
 <!---
 computersart/computersart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
